@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 开始使用
-      link: /guide/getting-started
+      link: /guide/quick-start
     - theme: alt
       text: 项目介绍
       link: /guide/introduction
