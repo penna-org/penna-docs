@@ -32,7 +32,7 @@ export default defineConfig({
           link:"/guide/module"
         },
         {
-          text:"插件",
+          text:"使用插件",
           link:"/guide/plugin"
         },
         {
